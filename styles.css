@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  height: auto;
+  margin: 70px;
+  text-align: center;
+}
+
+.sub-title {
+  height: auto;
+  margin: 40px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+.img-info {
+  height: auto;
+  margin: 20px;
+  text-align: center;
+}
+
+.list-title {
+  height: auto;
+  margin: 50px;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+.list {
+  margin: 16px 0;
+  line-height: 2;
+}
+
+.footer-text {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.footer-last {
+  height: auto;
+  margin: 40px;
+  text-align: center;
+}
